@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# bundle
+/dist/main.js
+
+# macOS
+.DS_Store
+
+# swap files
+*.swp
