@@ -32,4 +32,10 @@ npm install
 npm run dev
 ```
 
+本番環境用のビルド
+
+```terminal
+npm run build
+```
+
 Enjoy!!!
