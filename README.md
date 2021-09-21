@@ -8,10 +8,21 @@ webpack4でphaser3を動かすテンプレート
 git clone https://github.com/gentuki/phaser3-webpack4-template.git 
 ```
 
-プロジェクトに移動してパッケージをインストール
+自分の好きなフォルダ名にしたい場合は以下の形でclone
 
 ```terminal
-cd phaser3-webpack4-template
+git clone https://github.com/gentuki/phaser3-webpack4-template.git フォルダ名
+```
+
+プロジェクトに移動
+
+```terminal
+cd phaser3-webpack4-template 
+```
+
+パッケージをインストール
+
+```terminal
 npm install
 ```
 
@@ -20,3 +31,5 @@ npm install
 ```terminal
 npm run dev
 ```
+
+Enjoy!!!
